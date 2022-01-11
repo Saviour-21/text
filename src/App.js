@@ -6,7 +6,7 @@ import TextForm from './components/TextForm';
 function App() {
   return (
    <>
-   <Navbar title="Text" aboutText="About"/>
+   <Navbar title="UpperText" aboutText="About"/>
    <div className="container my-3">
    <TextForm heading = "Enter Text to convert in uppercase"/>
    </div>
